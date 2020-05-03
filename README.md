@@ -65,7 +65,7 @@
 | `NavigationController, TabBar` | 유형(기준) 없음 / 배치 불가능 | `static` |
 | `계산기` | 요소 자신을 기준으로 배치 |  |
 
-- 20th Week: 2020.01.06 ~ 2020.02.10
+- 10th Week: 2020.01.06 ~ 2020.01.10
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
@@ -74,4 +74,59 @@
 | `CoreLocation,MapKit` | 유형(기준) 없음 / 배치 불가능 | `static` |
 | `ScrollView` | 요소 자신을 기준으로 배치 |  |
 
+- 11th Week: 2020.01.13 ~ 2020.01.17
+
+| Lecture Summary | PPT | Note |
+|---|:---:|---:|
+| `UIViewAnimation` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `DynamicAutolayout1` | 요소 자신을 기준으로 배치 |  |
+| `DynamicAutolayout2` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `해커톤1차(지금줄게)` | 요소 자신을 기준으로 배치 |  |
+
+- 12th Week: 2020.01.20 ~ 2020.01.24
+
+| Lecture Summary | PPT | Note |
+|---|:---:|---:|
+| `Highorderfunction` | 유형(기준) 없음 / 배치 불가능 | `static` |
+
+
+- 13th Week: 2020.01.27 ~ 2020.01.31
+
+| Lecture Summary | PPT | Note |
+|---|:---:|---:|
+| `CollectionView` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `Error Handling + Logging` | 유형(기준) 없음 / 배치 불가능 | `static` |
+
+- 14th Week: 2020.02.03 ~ 2020.02.07
+
+| Lecture Summary | PPT | Note |
+|---|:---:|---:|
+| `자료구조` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `알고리즘` | 유형(기준) 없음 / 배치 불가능 | `static` |
+
+- 15th Week: 2020.02.10 ~ 2020.02.14
+
+| Lecture Summary | PPT | Note |
+|---|:---:|---:|
+| `UIDevice` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `Network이론, Closure` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `GCD, URLLoadingSystem` | 유형(기준) 없음 / 배치 불가능 | `static` |
+
+- 16th Week: 2020.02.17 ~ 2020.02.21
+
+| Lecture Summary | PPT | Note |
+|---|:---:|---:|
+| `URLSession, JSON ` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `Codable` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `DependaencyManager` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `Postman, Alamofire` | 유형(기준) 없음 / 배치 불가능 | `static` |
+
+- 17th Week: 2020.02.24 ~ ing
+
+| Lecture Summary | PPT | Note |
+|---|:---:|---:|
+| `WeatherForecast` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `AppleLogin, 커카오로그인 ` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `NotificationCenter` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `해커톤2차(뮤직앱)` | 유형(기준) 없음 / 배치 불가능 | `static` |
 
