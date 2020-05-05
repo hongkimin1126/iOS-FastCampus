@@ -13,7 +13,7 @@
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `조건문,반복문,제어` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `조건문,반복문,제어` | 유형(기준) 없음 / 배치 불가능 |  |
 | `CollectionTypes` | 요소 자신을 기준으로 배치 |  |
 | `enumeration,옵셔널` | 요소 자신을 기준으로 배치 |  |
 | `CodeSnippet, Closure기초` | 요소 자신을 기준으로 배치 |  |
@@ -22,7 +22,7 @@
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `OOP기본개념,프로퍼티,메서드` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `OOP기본개념,프로퍼티,메서드` | 유형(기준) 없음 / 배치 불가능 |  |
 | `접근제한자,OPP4대특성` | 요소 자신을 기준으로 배치 |  |
 | `AppLifeCycle` | 요소 자신을 기준으로 배치 |  |
 | `UIGuide, Frame, Bounds` | 요소 자신을 기준으로 배치 |  |
@@ -31,14 +31,14 @@
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `UIViewController` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `UIViewController` | 유형(기준) 없음 / 배치 불가능 |  |
 | `AlertController, UITextField` | 요소 자신을 기준으로 배치 |  |
 
 - 5th Week: 2019.12.02 ~ 2019.12.06
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `Storyboard, Segue` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `Storyboard, Segue` | 유형(기준) 없음 / 배치 불가능 |  |
 | `타입 캐스팅, 생성자` | 요소 자신을 기준으로 배치 |  |
 | `UserDefaults, Singleton` | 요소 자신을 기준으로 배치 |  |
 
@@ -46,7 +46,7 @@
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `Struct, ARC` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `Struct, ARC` | 유형(기준) 없음 / 배치 불가능 |  |
 | `Delegate` | 요소 자신을 기준으로 배치 |  |
 | `AutoLayou` | 요소 자신을 기준으로 배치 |  |
 
@@ -62,25 +62,25 @@
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `NavigationController, TabBar` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `NavigationController, TabBar` | 유형(기준) 없음 / 배치 불가능 |  |
 | `계산기` | 요소 자신을 기준으로 배치 |  |
 
 - 10th Week: 2020.01.06 ~ 2020.01.10
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `URLScheme, ImagePicker` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `URLScheme, ImagePicker` | 유형(기준) 없음 / 배치 불가능 |  |
 | `UIGestureRecognizer` | 요소 자신을 기준으로 배치 |  |
-| `CoreLocation,MapKit` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `CoreLocation,MapKit` | 유형(기준) 없음 / 배치 불가능 |  |
 | `ScrollView` | 요소 자신을 기준으로 배치 |  |
 
 - 11th Week: 2020.01.13 ~ 2020.01.17
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `UIViewAnimation` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `UIViewAnimation` | 유형(기준) 없음 / 배치 불가능 |  |
 | `DynamicAutolayout1` | 요소 자신을 기준으로 배치 |  |
-| `DynamicAutolayout2` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `DynamicAutolayout2` | 유형(기준) 없음 / 배치 불가능 |  |
 | `해커톤1차(지금줄게)` | 요소 자신을 기준으로 배치 |  |
 
 - 12th Week: 2020.01.20 ~ 2020.01.24
@@ -94,41 +94,41 @@
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `CollectionView` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `Error Handling + Logging` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `CollectionView` | 유형(기준) 없음 / 배치 불가능 |  |
+| `Error Handling + Logging` | 유형(기준) 없음 / 배치 불가능 |  |
 
 - 14th Week: 2020.02.03 ~ 2020.02.07
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `자료구조` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `알고리즘` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `자료구조` | 유형(기준) 없음 / 배치 불가능 |  |
+| `알고리즘` | 유형(기준) 없음 / 배치 불가능 |  |
 
 - 15th Week: 2020.02.10 ~ 2020.02.14
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `UIDevice` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `Network이론, Closure` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `GCD, URLLoadingSystem` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `UIDevice` | 유형(기준) 없음 / 배치 불가능 |  |
+| `Network이론, Closure` | 유형(기준) 없음 / 배치 불가능 |  |
+| `GCD, URLLoadingSystem` | 유형(기준) 없음 / 배치 불가능 |  |
 
 - 16th Week: 2020.02.17 ~ 2020.02.21
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `URLSession, JSON ` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `Codable` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `DependaencyManager` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `Postman, Alamofire` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `URLSession, JSON ` | 유형(기준) 없음 / 배치 불가능 |  |
+| `Codable` | 유형(기준) 없음 / 배치 불가능 |  |
+| `DependaencyManager` | 유형(기준) 없음 / 배치 불가능 |  |
+| `Postman, Alamofire` | 유형(기준) 없음 / 배치 불가능 |  |
 
 - 17th Week: 2020.02.24 ~ ing
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| `WeatherForecast` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `AppleLogin, 커카오로그인 ` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `NotificationCenter` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `해커톤2차(뮤직앱)` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `WeatherForecast` | 유형(기준) 없음 / 배치 불가능 |  |
+| `AppleLogin, 커카오로그인 ` | 유형(기준) 없음 / 배치 불가능 |  |
+| `NotificationCenter` | 유형(기준) 없음 / 배치 불가능 |  |
+| `해커톤2차(뮤직앱)` | 유형(기준) 없음 / 배치 불가능 |  |
 
 ## Contact Me
 - 📱 +82 10.7441.7101
