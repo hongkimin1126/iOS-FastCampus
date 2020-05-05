@@ -6,7 +6,7 @@
 
 | Lecture Summary | PPT | Note |
 |---|:---:|---:|
-| [컴퓨터개론](https://github.com/hongkimin1126/iOS-FastCampus/tree/master/2019.11.04(월)-컴퓨터%20개론) | 유형(기준) 없음 / 배치 불가능 | `static` |
+| [컴퓨터개론](https://github.com/hongkimin1126/iOS-FastCampus/tree/master/2019.11.04(월)-컴퓨터%20개론) | 유형(기준) 없음 / 배치 불가능 |  |
 | `자료형, 기본연산자, 함수` | - |  |
 
 - 2nd Week: 2019.11.11 ~ 2019.11.15
