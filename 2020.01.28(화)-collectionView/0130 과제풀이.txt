@@ -1,0 +1,42 @@
+/***************************************************
+CollectionViewExample 프로젝트의 FitItemsViewController.swift 파일에
+아래의 showNextItems()를 추가하고 
+setupFlowLayout() 메서드에서 fitItemsAndLinesOnScreen() 대신 호출
+
+fitItemsAndLinesOnScreen 메서드와 다른 점은
+edgeInset의 하단 여백(세로 방향 스크롤 기준)이 빠지는 대신 
+minimumLineSpacing만큼의 간격을 하나 더 주고
+추가로 다음 아이템을 보여줄만큼의 offset을 추가 확보
+***************************************************/
+
+
+
+func showNextItems() {
+  let itemSpacing = UI.itemSpacing * (UI.itemsInLine - 1)
+  let horizontalInset = UI.edgeInsets.left + UI.edgeInsets.right
+  let verticalInset = UI.edgeInsets.top + UI.edgeInsets.bottom
+    + view.safeAreaInsets.top
+    + view.safeAreaInsets.bottom
+  
+  let width: CGFloat
+  let height: CGFloat
+  
+  if layout.scrollDirection == .vertical {
+    let horizontalSpacing = itemSpacing + horizontalInset
+    width = (collectionView.frame.width - horizontalSpacing) / UI.itemsInLine
+    
+    let lineSpacing = UI.lineSpacing * UI.linesOnScreen
+    let topSpacing = UI.edgeInsets.top + view.safeAreaInsets.top
+    let verticalSpacing = lineSpacing + topSpacing + UI.nextOffset
+    height = (collectionView.frame.height - verticalSpacing) / UI.linesOnScreen
+  } else {
+    let lineSpacing = UI.lineSpacing * UI.linesOnScreen
+    let horizontalSpacing = lineSpacing + UI.edgeInsets.left + UI.nextOffset
+    width = (collectionView.frame.width - horizontalSpacing) / UI.linesOnScreen
+    
+    let verticalSpacing = itemSpacing + verticalInset
+    height = (collectionView.frame.height - verticalSpacing) / UI.itemsInLine
+  }
+  
+  layout.itemSize = CGSize(width: width.rounded(.down), height: height.rounded(.down))
+}
